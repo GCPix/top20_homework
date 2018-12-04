@@ -3,7 +3,7 @@
   width: 25%;
   margin: 2%;
   border: 2px solid black;
-  min-height: 150px;
+  min-height: 220px;
 
 }
 
@@ -16,7 +16,13 @@
 .position{
   padding: 4%;
 }
-
+img{
+  height: 100px;
+  width:auto;
+}
 .image{
   margin-left: 2%;
+}
+.right{
+  display: block;
 }
