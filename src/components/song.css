@@ -1,0 +1,22 @@
+.song{
+  display:inline-flex;
+  width: 25%;
+  margin: 2%;
+  border: 2px solid black;
+  min-height: 150px;
+
+}
+
+.song h3{
+  font-size: 16px;
+}
+.song p{
+  font-size: 14px;
+}
+.position{
+  padding: 4%;
+}
+
+.image{
+  margin-left: 2%;
+}
